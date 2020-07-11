@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0471a434-a6a9-42ab-99ca-2292d9e6ea8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/DynamicProgramming/FibonacciModified.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/DynamicProgramming/FibonacciModified/Solution/java/FibonacciModified.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Algorithms/DynamicProgramming/FibonacciModified.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRankPractice" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="FibonacciModified" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.DynamicProgramming.FibonacciModified" />
       <module name="HackerRankSolutions" />
@@ -47,8 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.DynamicProgramming.TheCoinChangeProblem.Solution" />
+      <module name="HackerRankSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.DynamicProgramming.TheCoinChangeProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.FibonacciModified" />
       </list>
     </recent_temporary>
@@ -71,22 +85,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594469612770" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594469947764">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594491343308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594469947764" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1594469947764">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594491343308" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1594491343307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594469947764" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1594469947764">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594491343307" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1594491343307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594469947764" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1594469947764">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594491343307" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1594491343307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594469947764" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594491343307" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594491099823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594491099823" />
     <state x="531" y="134" width="606" height="804" key="find.popup" timestamp="1594468511769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
